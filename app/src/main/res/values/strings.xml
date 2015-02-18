@@ -9,5 +9,9 @@
     <string name="title_activity_display_message">Your message is </string>
     <string name="hello_world">Hello world!</string>
     <string name="textlabel">Hello in my first app</string>
+    <string name="action_search">Search</string>
+    <string name="menuOption">Choose the button</string>
+    <string name="Calc">Fast Calc</string>
+    <string name="title_activity_calc">CalcActivity</string>
 
 </resources>

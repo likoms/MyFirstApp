@@ -24,6 +24,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.likoms.myfirstapp.MainActivity" />
         </activity>
+        <activity
+            android:name=".CalcActivity"
+            android:label="@string/title_activity_calc" >
+        </activity>
     </application>
 
 </manifest>
